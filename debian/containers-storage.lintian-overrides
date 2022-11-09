@@ -1,0 +1,5 @@
+containers-storage: copyright-without-copyright-notice
+containers-storage: executable-not-elf-or-script
+containers-storage: initial-upload-closes-no-bugs
+containers-storage: no-manual-page
+containers-storage: zero-byte-file-in-doc-directory
