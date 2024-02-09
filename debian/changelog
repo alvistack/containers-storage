@@ -1,0 +1,5 @@
+containers-storage (100:1.56.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/containers/storage/releases/tag/v1.56.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 08 Nov 2024 10:19:10 +0800
