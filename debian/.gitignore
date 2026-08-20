@@ -1,0 +1,6 @@
+*.substvars
+*debhelper*
+.debhelper
+containers-storage
+files
+tmp
